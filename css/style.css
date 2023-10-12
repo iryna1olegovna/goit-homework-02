@@ -15,6 +15,10 @@ body {
     background-color: #FFFFFF;
 }
 
+adress {
+    font-style: normal
+}
+
 .logo{
 
     font-family: 'Raleway', 'Roboto' sans-serif;
@@ -71,7 +75,7 @@ body {
 
 .menu-item:hover, 
 .menu-item:focus {
-    color:#fd9222;
+    color: #404bbf;
 }
 
 .button {
@@ -202,7 +206,6 @@ body {
 
 <!--------BACKGROUND-------->
 .page-header{ 
-    border-bottom: 1px solid var(--CORNFLOWER, #E7E9FC);
     background: #FFF;
 }
 
