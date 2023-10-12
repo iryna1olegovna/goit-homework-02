@@ -7,6 +7,9 @@
 
 button {
     cursor: pointer;
+    font-family: 'Roboto' sans-serif;
+    hover: #404BBF;
+    focus: #404BBF;
 }
 
 body {
@@ -80,6 +83,7 @@ adress {
 
 .button {
     font-size: 16px;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     line-height: 1.5; 
@@ -172,22 +176,22 @@ adress {
 }
 
 .logo-footer {
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.16; 
+    line-height: 1.17; 
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
 }
 
 .logo-footer-span {
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #F4F4FD;
