@@ -9,15 +9,18 @@ button {
     cursor: pointer;
 }
 
-.body {
+body {
     font-family: 'Roboto' sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
 }
+
 .logo{
 
     font-family: 'Raleway', 'Roboto' sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16; 
+    line-height: 1.17; 
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color:  #2E2F42;
@@ -28,7 +31,7 @@ button {
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.16; 
+    line-height: 1.17; 
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
@@ -206,9 +209,7 @@ button {
 .hero-section {background: #2E2F42;}
 
 .button {
-    border-radius: 4px;
     background: #4D5AE5;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 
 .benefits-main {
