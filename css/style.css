@@ -60,7 +60,7 @@ address {
     color: #404bbf;
 }
 
-.contacts {
+.link-contacts {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-style: normal;
@@ -68,6 +68,11 @@ address {
     line-height: 1.5; 
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.link-contacts:hover,
+.lonk-contacts:focus {
+    color: #404bbf
 }
 
 .hero-page{
