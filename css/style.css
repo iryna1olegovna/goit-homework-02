@@ -8,9 +8,13 @@
 button {
     cursor: pointer;
     font-family: 'Roboto' sans-serif;
-    hover: #404BBF;
-    focus: #404BBF;
 }
+
+.button-order:hover,
+.button-order:focus{
+    background-color: #404BBF
+}
+
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -71,7 +75,7 @@ address {
 }
 
 .link-contacts:hover,
-.lonk-contacts:focus {
+.link-contacts:focus {
     color: #404bbf
 }
 
