@@ -8,6 +8,12 @@
 button {
     cursor: pointer;
     font-family: 'Roboto' sans-serif;
+    background-color: #4D5AE5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
 }
 
 .button-order:hover,
@@ -133,6 +139,10 @@ address {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color:#2E2F42;
+}
+
+.team-list {
+    background-color: #FFFFFF
 }
 
 .names {
