@@ -133,7 +133,7 @@ address {
     color: #434455;
 }
 
-.team {   
+.team-section-head {   
     text-align: center;
     font-size: 36px;
     font-style: normal;
@@ -144,11 +144,11 @@ address {
     color:#2E2F42;
 }
 
-.team-list {
+.team-section-list {
     background-color: #FFFFFF
 }
 
-.team-list-order {
+.team-section-order-list {
     background-color: #FFFFFF
 }
 
@@ -174,7 +174,7 @@ address {
     color: #434455;
 }
 
-.portfolio--section-head {
+.portfolio-section-head {
     
     text-align: center;
     font-size: 36px;
