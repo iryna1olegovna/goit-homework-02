@@ -5,6 +5,14 @@
     text-decoration: none;
 }
 
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
 button {
     cursor: pointer;
     background-color: #4D5AE5;
@@ -37,14 +45,9 @@ address {
 
 .logo{
 
-    font-family: 'Raleway', sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.17; 
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
     color:  #2E2F42;
 }
+
 .logotype-link-list{
     
     font-family: 'Raleway', sans-serif;
